@@ -31,4 +31,4 @@ host-update.sh 和 host.txt必须在同一个文件夹内；
 
 ### host.txt说明
 - 存放项目所需的基本host配置, 本地开发环境使用。
-- 遇到系统权限问题脚本执行失败，请手动编辑host配置或执行host-update.sh脚本。
+- 遇到系统权限问题脚本执行失败，请手动编辑host配置。

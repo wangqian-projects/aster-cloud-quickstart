@@ -1,0 +1,10 @@
+# 便于开发忽略所有文件提交
+*
+# 除aster-projects-build自身文件
+!.gitignore
+!git-build.sh
+!git-projects.txt
+!README.md
+!host.txt
+!host-up.sh
+!host-up.bat

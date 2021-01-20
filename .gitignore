@@ -1,24 +1,66 @@
-# 便于开发忽略所有文件提交
-*
-# 除aster-projects-build自身文件
-!.gitignore
-!git-build.sh
-!git-projects.txt
-!README.md
+# 忽略匹配下列规则的Git 提交 V2.1.0
+### projects ###
+/projects/
+*.java
 
-!/conf/
-/conf/*
-!/conf/host/
-/conf/host/*
-!/conf/host/host.txt
-!/conf/host/host-up.sh
+### gradle ###
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
 
-!/conf/db/
-/conf/db/*
-!/conf/db/aster-nacos
-/conf/db/aster-nacos/*
-!/conf/db/aster-nacos/nacos-mysql.sql
+### STS ###
+.settings/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+bin/
 
-!/conf/db/aster-xxl-job
-/conf/db/aster-xxl-job/*
-!/conf/db/aster-xxl-job/tables_xxl_job.sql
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.lock
+*.xml
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+### maven ###
+target/
+*.war
+*.ear
+*.zip
+*.tar
+*.tar.gz
+
+### logs ####
+/logs/
+*.log
+
+### temp ignore ###
+*.cache
+*.diff
+*.patch
+*.tmp
+*.java~
+*.properties~
+*.xml~
+
+### system ignore ###
+.DS_Store
+Thumbs.db
+Servers
+.metadata
+upload
+gen_code
+
+### node ###
+node_modules

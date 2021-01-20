@@ -1,3 +1,6 @@
 projects.aster-cloud-build=git@github.com:wangqian-projects/aster-cloud-build.git
 projects.aster-cloud-release=git@github.com:wangqian-projects/aster-cloud-release.git
 projects.aster-cloud-commons=git@github.com:wangqian-projects/aster-cloud-commons.git
+projects.aster-cloud-starters=git@github.com:wangqian-projects/aster-cloud-starters.git
+projects.aster-nacos=git@github.com:wangqian-projects/aster-nacos.git
+projects.aster-svc-log=git@github.com:wangqian-projects/aster-svc-log.git

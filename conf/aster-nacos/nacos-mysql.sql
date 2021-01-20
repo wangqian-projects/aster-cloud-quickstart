@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-CREATE database if NOT EXISTS `nacos_config` default character set utf8mb4 collate utf8mb4_unicode_ci;
+CREATE database if NOT EXISTS `nacos_config` default character set utf8 collate utf8_unicode_ci;
 use `nacos_config`;
 
 /******************************************/

@@ -1,2 +1,2 @@
-192.168.201.129 aster_mysql
+192.168.201.129 aster-mysql
 127.0.0.1 aster-nacos

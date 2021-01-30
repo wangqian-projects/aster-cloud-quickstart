@@ -4,12 +4,8 @@
 # author:wangqian
 # use build the git projects
 
-logFile=build.log
-touch $logFile
-
 function printLog_() {
 	echo "$1"
-	echo "$1" >> $logFile
 }
 
 printLog_ "                                                                        "

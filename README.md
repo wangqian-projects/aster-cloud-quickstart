@@ -1,16 +1,16 @@
 ## Aster Cloud Quickstart
-Aster Cloud 世界由这里开始，本项目用于快速构建 aster cloud 项目和基础配置。
+Aster Cloud 世界由这里开始，快速构建 aster cloud 项目开发。
 
 ### 目录说明
 ```lua
 aster-cloud-quickstart
 ├── conf
-     ├── aster-nacos -- nacos
-     ├── aster-seata -- seata
-     ├── aster-xxl-job -- seata
-     └── host -- host
+     ├── aster-nacos -- nacos 配置
+     ├── aster-seata -- seata 配置
+     ├── aster-xxl-job -- xxl-job 配置
+     └── host -- hos t配置
 ├── git-build.sh -- 构建 Aster Cloud 项目
-└── git-projects.txt -- 定义要clone的项目
+└── git-projects.txt -- 定义要 clone 的项目
 ```
 
 ### 快速开始

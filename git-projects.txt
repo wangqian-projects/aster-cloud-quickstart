@@ -5,6 +5,5 @@ projects.aster-cloud-starters=git@github.com:wangqian-projects/aster-cloud-start
 projects.aster-nacos=git@github.com:wangqian-projects/aster-nacos.git
 projects.aster-gateway=git@github.com:wangqian-projects/aster-gateway.git
 projects.aster-id-generator=git@github.com:wangqian-projects/aster-id-generator.git
-projects.aster-config=git@github.com:wangqian-projects/aster-config.git
+projects.aster-data-management=git@github.com:wangqian-projects/aster-data-management.git
 projects.aster-identity=git@github.com:wangqian-projects/aster-identity.git
-projects.aster-svc-log=git@github.com:wangqian-projects/aster-svc-log.git

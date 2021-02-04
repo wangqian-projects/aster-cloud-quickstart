@@ -20,6 +20,9 @@ printLog_ "  Author: WangQian                                                   
 printLog_ "                                                                        "
 printLog_ "build start: $(date +%Y-%m-%d\ %H:%M:%S)"
 
+# 更新本项目
+git pull
+
 # 创建文件目录函数
 function mkdir_(){
 	if [ ! -d $1  ];then

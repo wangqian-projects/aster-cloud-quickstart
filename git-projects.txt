@@ -1,3 +1,4 @@
+ui.aster-ui=https://github.com/wangqian-projects/aster-ui.git
 projects.aster-cloud-build=git@github.com:wangqian-projects/aster-cloud-build.git
 projects.aster-cloud-release=git@github.com:wangqian-projects/aster-cloud-release.git
 projects.aster-cloud-commons=git@github.com:wangqian-projects/aster-cloud-commons.git
